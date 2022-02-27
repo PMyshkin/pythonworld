@@ -17,5 +17,5 @@ while a < Number -1:
     if Prime == Number -1:
         print(True)
 
-
+# 2nd Way
 
